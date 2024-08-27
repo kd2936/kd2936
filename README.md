@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Kamakshi Dubey 
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning BCA
-- ⚡ Fun fact: I am pursuing a BCA from Kasturba DSEU Pitampura 
+I'm Kamakshi Dubey, a BCA student with a passion for technology and creativity.
 
-<!---
-kd2936/kd2936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+- Name: Kamakshi Dubey
+- Course: BCA (Bachelor of Computer Applications)
+- Interests: Editing, Graphic Designing, Web Development, and Cyber Security
+
+My Projects
+
+- Travel Planner
+- Wheather forecasting
+- calander 
+
+Skills
+
+- Programming languages: Python, HTML, CSS
+- Graphic Designing: Adobe Photoshop, Adobe Illustrator
+- Editing: Video editing, Photo editing
+- Operating Systems: Windows, Linux
+
+Contact me
+Email: mailto:kamakshi123@gmail.com
